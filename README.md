@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there! 👋 I'm Astral.
 
-<!--
-**TheAstralVeil/TheAstralVeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Final-year Integrated MSc Geologist passionately exploring the intersections of **Remote Sensing, Geoinformatics, Glaciology, Terrain Systems, AI, and Space Science.** Driven by a profound curiosity for complex systems and abstract truths, I'm building foundational skills for a future in Earth Intelligence or Research.
 
-Here are some ideas to get you started:
+🔭 My research delves into **Himalayan Glaciology**, encompassing significant work like the Chorabari Glacier project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently mastering these technologies and domains**:
+* **Python:** Dedicated to in-depth mastery for advanced analysis.
+* **SQL:** Crafting robust database interactions.
+* **Machine Learning:** Unlocking insights from vast datasets.
+* **GIS & Remote Sensing:** Mapping and understanding our planet from above.
+* **Scientific Publishing:** Translating research into impact.
+* **GATE Geology (GG) preparation:** Solidifying core domain expertise.
+
+💡 Beyond the scientific pursuit, I find reflection in space, astrology, music and psychology.
+
+✨ Aspiring to contribute as a Scientist, unraveling Earth's mysteries and shaping its intelligence.
+
+---
+**Let's Connect:**
