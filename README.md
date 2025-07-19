@@ -17,4 +17,4 @@ A Final-year Integrated MSc Geologist passionately exploring the intersections o
 ✨ Aspiring to contribute as a Scientist, unraveling Earth's mysteries and shaping its intelligence.
 
 ---
-**Let's Connect:**
+**Let's Connect:**www.linkedin.com/in/astralveil
